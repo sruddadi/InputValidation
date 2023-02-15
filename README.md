@@ -36,7 +36,7 @@ Additionally, added Junit test cases to the project to ensure the project code i
 
 Assumptions Made:
 
-Assumed that the phone numbers may or may not be preceded by a + which indicates that an international dialing prefix, such as 00 or 011, must be included when dialing.  If not using the plus, the dialing prefix itself may be included.
+• Assumed that the phone numbers may or may not be preceded by a + which indicates that an international dialing prefix, such as 00 or 011, must be included when dialing.  If not using the plus, the dialing prefix itself may be included.
 
 • Assumed 5-digit extensions only for dialing from one internal phone to another. 
 
@@ -45,13 +45,19 @@ Assumed that the phone numbers may or may not be preceded by a + which indicates
 • Assumed Danish telephone numbers are 8 digits long, and normally written in four groups of two separated by spaces, AA AA AA AA. In recent years it has also become common to write them in two groups of four, AAAA AAAA.  Also, allow dots instead of spaces.  Denmark's country code is 45 and may be included as well for international formats. Some notations use 2-digit area codes. Some notations with 10 digits in two groups of five separated by either a space or a dot.
 
 • Assumed valid inputs for Name are as follows:
-    o	Bruce Lee
-    o	Lee, Bruce
-    o	Lee, Bruce Wayne
-    o	O’Malley, John F.
-    o	John O’Malley-Smith
-    o	Cheri
 
+    o	Bruce Lee
+    
+    o	Lee, Bruce
+    
+    o	Lee, Bruce Wayne
+    
+    o	O’Malley, John F.
+    
+    o	John O’Malley-Smith
+    
+    o	Cheri
+    
 • Assumed each word in the name must start with a capital letter
 
 • Assumed each word before space should have at most 10 letters
