@@ -1,0 +1,142 @@
+Phonebook records have been listed
+
+New Phonebook Record has been created: 
+Name: Prateek Kama, Phone number: 39867.89765, Created Date: 2022.11.25.02.39.20
+
+Phonebook records have been listed
+
+Phonebook Record has been deleted: 
+Name: Prateek Kama, Phone number: 39867.89765, Deleted Date: 2022.11.25.02.39.58
+
+Phonebook records have been listed
+
+New Phonebook Record has been created: 
+Name: Prateek Kama, Phone number: 39867.89765, Created Date: 2022.11.25.02.40.39
+
+Phonebook records have been listed
+
+Phonebook Record has been deleted: 
+Name: Prateek Kama, Phone number: 39867.89765, Deleted Date: 2022.11.25.02.43.39
+
+Phonebook records have been listed
+
+Phonebook records have been viewed
+
+New Phonebook Record has been created: 
+Name: Prateek Kama, Phone number: 39867.89765, Created Date: 2022.11.25.04.02.11
+
+Phonebook records have been viewed
+
+Phonebook records have been viewed
+
+New Phonebook Record has been created: 
+Name: Prateek Nama, Phone number: 39867.09765, Created Date: 2022.11.25.04.04.54
+
+Phonebook records have been viewed, Viewed Date: 2022.11.25.04.04.57
+
+Phonebook Record has been deleted: 
+Name: Prateek Kama, Phone number: 39867.89765, Deleted Date: 2022.11.25.04.07.14
+
+Phonebook records have been viewed, Viewed Date: 2022.11.25.04.07.17
+
+Phonebook Record has been deleted: 
+Name: Prateek Nama, Phone number: 39867.09765, Deleted Date: 2022.11.25.04.07.36
+
+Phonebook records have been viewed, Viewed Date: 2022.11.25.04.07.40
+
+Phonebook records have been viewed, Viewed Date: 2022.11.25.15.49.40
+
+New Phonebook Record has been created: 
+Name: Prateek Nama, Phone number: 39867.09765, Created Date: 2022.11.25.15.49.56
+
+Phonebook records have been viewed, Viewed Date: 2022.11.25.15.49.59
+
+Phonebook Record has been deleted: 
+Name: Mani, Phone number: 1234565690, Deleted Date: 2022.11.25.15.50.06
+
+Phonebook records have been viewed, Viewed Date: 2022.11.25.15.50.09
+
+Phonebook records have been viewed, Viewed Date: 2022.11.25.15.50.40
+
+Phonebook Record has been deleted: 
+Name: Prateek Nama, Phone number: 39867.09765, Deleted Date: 2022.11.25.15.50.52
+
+Phonebook records have been viewed, Viewed Date: 2022.11.25.15.50.55
+
+Phonebook records have been viewed, Viewed Date: 2022.11.25.15.52.14
+
+Phonebook Record has been deleted: 
+Name: Mani, Phone number: 1234565690, Deleted Date: 2022.11.25.15.52.25
+
+Phonebook records have been viewed, Viewed Date: 2022.11.25.15.52.29
+
+Phonebook records have been viewed on 2022.11.25.18.16.51
+
+New Phonebook Record has been created:- 
+Name: Prateek Nama, Phone number: 39867.09765, Created Date: 2022.11.25.18.16.58
+
+Phonebook records have been viewed on 2022.11.25.18.17.01
+
+Phonebook records have been viewed on 2022.11.25.18.28.19
+
+Phonebook records have been viewed on 2022.11.25.18.28.22
+
+New Phonebook Record has been created:- 
+Name: Prateek Kama, Phone number: 39867.09765, Created Date: 2022.11.25.18.46.13
+
+Phonebook records have been viewed on 2022.11.25.18.46.16
+
+Phonebook records have been viewed on 2022.11.25.18.52.11
+
+Phonebook Record has been deleted:- 
+Name: Mani, Phone number: 1234565690, Deleted Date: 2022.11.25.18.52.20
+
+Phonebook Record has been deleted:- 
+Name: Srikar, Phone number: 1234567890, Deleted Date: 2022.11.25.18.52.38
+
+Phonebook records have been viewed on 2022.11.25.18.52.42
+
+Phonebook Record has been deleted:- 
+Name: Prateek Kama, Phone number: 39867.09765, Deleted Date: 2022.11.25.18.52.52
+
+Phonebook records have been viewed on 2022.11.25.18.52.55
+
+Phonebook records have been viewed on 2022.11.25.23.06.41
+
+New Phonebook Record has been created:- 
+Name: Prateek Kama, Phone number: 39867.09765, Created Date: 2022.11.25.23.06.48
+
+Phonebook records have been viewed on 2022.11.25.23.06.51
+
+New Phonebook Record has been created:- 
+Name: Srikar Uddadi, Phone number: 123-1234, Created Date: 2022.11.25.23.07.24
+
+Phonebook records have been viewed on 2022.11.25.23.07.27
+
+New Phonebook Record has been created:- 
+Name: Manasa Manthena, Phone number: +1(703)111-2121, Created Date: 2022.11.25.23.07.55
+
+Phonebook records have been viewed on 2022.11.25.23.07.58
+
+Phonebook records have been viewed on 2022.11.25.23.52.01
+
+New Phonebook Record has been created:- 
+Name: Bruce Lee, Phone number: +1(703)111-2122, Created Date: 2022.11.25.23.52.25
+
+Phonebook records have been viewed on 2022.11.25.23.52.28
+
+Phonebook Record has been deleted:- 
+Name: Bruce Lee, Phone number: +1(703)111-2122, Deleted Date: 2022.11.25.23.52.48
+
+Phonebook records have been viewed on 2022.11.25.23.52.52
+
+Phonebook Record has been deleted:- 
+Name: Manasa Manthena, Phone number: +1(703)111-2121, Deleted Date: 2022.11.25.23.53.07
+
+Phonebook records have been viewed on 2022.11.25.23.53.10
+
+New Phonebook Record has been created:- 
+Name: Bruce Lee, Phone number: +1(703)111-2122, Created Date: 2022.11.25.23.53.15
+
+Phonebook records have been viewed on 2022.11.25.23.53.18
+
